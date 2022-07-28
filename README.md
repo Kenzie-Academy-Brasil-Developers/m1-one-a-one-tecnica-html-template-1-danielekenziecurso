@@ -6,7 +6,7 @@ Seu objetivo é replicar a imagem de exemplo abaixo inserindo estes pontos:
 -   Uma imagem contendo a logo da kenzie.
 -   Um parágrafo contendo uma palavra com ênfase.
 -   Um título.
--   Uma lista.
+-   Uma lista não ordenada.
 -   Um parágrafo contendo um link para o site da kenzie.
 
 **Atenção, só serão consideradas as tags que possuem peso semântico, isto exclui tags como por exemplo:**
